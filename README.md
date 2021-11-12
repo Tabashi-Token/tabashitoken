@@ -10,11 +10,11 @@ Tokenomics :
 Team Allocation : 5% 
 Marketing : 8%
 Partnership & Project Operations : 10% ( Not to be touched till the development starts )
-Airdrops & Charity : 5%
-Burn : 30%
+Charity & Giveaway : 2%
+Burn : 20%
 Private Sale : 10%
-PancakeSwap : 22%
-Staking 7 Farming : 10%
+Public Sale : 35%
+Stake & Farm : 10%
 
 Buy and Sell Tax (10%) :
 3% Project Operations
